@@ -42,7 +42,7 @@ a:hover {
   background-color: #EED2CC;
   padding: 10px ;
   border: 1px solid #E8998D;
-  border-radius: 5%;
+  border-radius: 5px;
   width: 300px;
   margin: 0 auto;
 }
@@ -51,7 +51,7 @@ a:hover {
   background-color: #EED2CC;
   padding: 10px ;
   border: 1px solid #E8998D;
-  border-radius: 15%;
+  border-radius: 5px;
   width: 300px;
   margin: 0 auto;
   margin-top: 10px;
@@ -63,7 +63,7 @@ a:hover {
   background-color: #EED2CC;
   padding: 10px ;
   border: 1px solid #E8998D;
-  border-radius: 12%;
+  border-radius: 5px;
   width: 300px;
   margin: 0 auto;
   margin-top: 10px;
@@ -74,7 +74,7 @@ a:hover {
   background-color: #EED2CC;
   padding: 10px ;
   border: 1px solid #E8998D;
-  border-radius: 12%;
+  border-radius: 5px;
   width: 300px;
   margin: 0 auto;
   margin-top: 10px;
